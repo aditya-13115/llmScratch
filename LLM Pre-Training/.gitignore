@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 trials/
+model.pth
+model_and_optimizer.pth
+.gitignore
