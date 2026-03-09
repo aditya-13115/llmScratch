@@ -5,3 +5,4 @@ trials/
 model.pth
 model_and_optimizer.pth
 .gitignore
+review_classifier.pth
