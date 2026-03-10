@@ -6,3 +6,4 @@ model.pth
 model_and_optimizer.pth
 .gitignore
 review_classifier.pth
+gpt2-medium355M-sft.pth
