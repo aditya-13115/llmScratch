@@ -1,5 +1,3 @@
----
-
 # LLMs from Scratch
 
 *Trying to implement a Large Language Model from scratch :)*
@@ -8,7 +6,6 @@ Welcome to the **LLMs from Scratch** repository! This project is a hands-on jour
 
 Here, we build everything from basic text tokenization and self-attention mechanisms to a fully functional GPT architecture. We also cover practical, real-world applications like loading pre-trained weights, classification fine-tuning, and instruction fine-tuning.
 
----
 
 ## Notebooks Overview
 
